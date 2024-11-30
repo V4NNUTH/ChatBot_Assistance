@@ -1,6 +1,6 @@
 python-dotenv==1.0.1
 streamlit==1.30.0
-langchain==0.1.4
-langchain-openai==0.0.5
-langchain-groq==1.0.1
+langchain
+langchain-openai
+langchain-groq
 mysql-connector-python
